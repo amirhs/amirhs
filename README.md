@@ -13,12 +13,12 @@ My name is Amir, I'm a software developer based in Germany.
   <img
     width="24"
     alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+    src="https://raw.githubusercontent.com/amirhs/amirhs/6900baceaf7a2497cad56a357182da5752729a76/twitter.svg"
   /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/hosseini-amir/" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+    src="https://raw.githubusercontent.com/amirhs/amirhs/6900baceaf7a2497cad56a357182da5752729a76/linkedin.svg"
   /></a>
