@@ -7,7 +7,7 @@ My name is Amir, I'm a software developer based in Germany.
 
 ### Getting in touch
 
-[amirhs.de](http://armihs.de)
+[amirhs.de](http://amirhs.de)
 
 <a href="https://twitter.com/amir_hosseeini" title="Follow me on Twitter">
   <img
