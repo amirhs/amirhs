@@ -1,4 +1,4 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=amirhs&label=Profile%20views&color=0e75b6&style=flat" alt="amirhs">
+<!-- <img align ="right" src="https://komarev.com/ghpvc/?username=amirhs&label=Profile%20views&color=0e75b6&style=flat" alt="amirhs"> -->
 
 ### Hi there! 👋
 
