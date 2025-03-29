@@ -22,3 +22,6 @@ My name is Amir, I'm a software developer based in Germany.
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/amirhs/amirhs/293830be5778efa2c52b4080e8c8399ddfe31ea6/linkedin.svg"
   /></a>
+  
+# Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhs)](https://github.com/anuraghazra/github-readme-stats)
